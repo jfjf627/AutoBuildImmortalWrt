@@ -36,5 +36,3 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-quickstart-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netwizard luci-i18n-netwizard-zh-cn"
 # Lucky大吉 
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky"
-#wifi网卡驱动
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES kmod-mt7921u
